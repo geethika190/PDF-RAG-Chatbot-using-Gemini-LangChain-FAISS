@@ -44,4 +44,5 @@ PDF-RAG-Chatbot-using-Gemini-LangChain-FAISS/
 │── PDF_RAG_Chatbot_Gemini.ipynb
 │── README.md
 ```
-
+This project was built as part of my learning journey in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)**.
+---
